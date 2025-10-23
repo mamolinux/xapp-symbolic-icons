@@ -1,8 +1,8 @@
-install_subdir('hicolor',
-    install_dir: join_paths(get_option('prefix'), get_option('datadir'), 'icons'),
+install_subdir('symbolic',
+    install_dir: join_paths(get_option('prefix'), get_option('datadir'), 'icons/hicolor/scalable/actions/'),
 )
 
-install_data('adwaita-symbolic-icons.info', install_dir : get_option('datadir') / 'xapp')
+install_data('xsi-adwaita-symbolic.info', install_dir : get_option('datadir') / 'xapp')
 
 configure_file(
   input: 'xsi-replace-adwaita-symbolic.in',

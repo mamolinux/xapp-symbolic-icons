@@ -49,7 +49,7 @@ def parse_args():
 # -----------------------------------------------------------------------------
 def load_icon_map():
     icon_map = {}
-    datafile = os.path.join(XAPP_DATA_DIR, "adwaita-symbolic-icons.info")
+    datafile = os.path.join(XAPP_DATA_DIR, "xsi-adwaita-symbolic.info")
     with open(datafile, "r", encoding="utf-8") as flist:
         for line in flist:
             line = line.strip()
