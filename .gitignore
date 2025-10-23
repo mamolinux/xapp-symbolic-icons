@@ -1,0 +1,10 @@
+# Specify filepatterns you want git to ignore.
+
+obj-*
+debian/tmp/
+debian/*.debhelper
+debian/xapp-symbolic-icons/
+debian/*.log
+debian/*.substvars
+debian/files
+debian/debhelper-build-stamp

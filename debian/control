@@ -1,0 +1,15 @@
+Source: xapp-symbolic-icons
+Section: x11
+Priority: optional
+Maintainer: Clement Lefebvre <root@linuxmint.com>
+Build-Depends:
+ debhelper-compat (= 12),
+ meson,
+Standards-Version: 4.6.1
+Rules-Requires-Root: no
+Homepage: https://github.com/linuxmint/xapp-symbolic-icons
+
+Package: xapp-symbolic-icons
+Architecture: any
+Description: Symbolic icons for applications
+ This package contains a set of symbolic icons used in applications.
