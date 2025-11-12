@@ -17,6 +17,7 @@ application-x-appliance # mimetypes # appliance
 application-x-executable # mimetypes # executable
 application-x-firmware # mimetypes # firmware
 application-x-sharedlib # mimetypes # sharedlib
+applications-education # categories # applications-education
 applications-engineering # categories # applications-engineering
 applications-games # categories # applications-games
 applications-graphics # categories # applications-graphics
