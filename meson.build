@@ -1,6 +1,6 @@
 project(
   'xapp-symbolic-icons',
-  version : '1.0.2',
+  version : '1.0.3',
   default_options : ['buildtype=debugoptimized'],
   meson_version : '>=0.56.0'
 )
