@@ -9,6 +9,6 @@ Standards-Version: 4.6.1
 Homepage: https://github.com/linuxmint/xapp-symbolic-icons
 
 Package: xapp-symbolic-icons
-Architecture: any
+Architecture: all
 Description: Symbolic icons for applications
  This package contains a set of symbolic icons used in applications.
