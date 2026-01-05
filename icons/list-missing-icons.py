@@ -2,7 +2,7 @@
 # This script lists any icon which could be missing from XApp
 import os
 
-with open("adwaita-symbolic-icons.info", "r") as flist:
+with open("xsi-adwaita-symbolic.info", "r") as flist:
 	for line in flist:
 		line = line.strip()
 		old, cat, new = line.split(" # ")
