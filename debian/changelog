@@ -1,3 +1,15 @@
+xapp-symbolic-icons (1.0.8) zena; urgency=medium
+
+  [ JosephMcc ]
+  * Use nicer style for power profile icons (#15)
+
+  [ Clement Lefebvre ]
+  * Add xsi-network-wireless-signal-*-secure icons
+  * Fix filename in list-missing-icons.py
+  * battery: Add 100-charging in addition to 100-charged
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 05 Jan 2026 17:22:42 +0000
+
 xapp-symbolic-icons (1.0.7) zena; urgency=medium
 
   * Add xsi-applications-wine
