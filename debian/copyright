@@ -6,6 +6,7 @@ Source: https://github.com/xapp-project/xapp-symbolic-icons
 
 Files:
  icons/symbolic/xsi-applications-electronics-symbolic.svg
+ icons/symbolic/xsi-applications-education-symbolic.svg
 Copyright:
  © Ionicons contributors
 License: MIT
@@ -83,7 +84,6 @@ Files:
  icons/symbolic/xsi-cpu-symbolic.svg
  icons/symbolic/xsi-ram-symbolic.svg
  icons/symbolic/xsi-temperature-symbolic.svg
- icons/symbolic/xsi-applications-education-symbolic.svg
 Copyright:
  Unknown
 License: UNKNOWN
