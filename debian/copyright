@@ -65,7 +65,7 @@ Files:
  icons/symbolic/xsi-github-symbolic.svg
 Copyright:
  © GitLab Inc.
-License: GitLab
+License: MIT
 Source: https://gitlab.com/gitlab-org/gitlab-services/design.gitlab.com/-/tree/main/packages/gitlab-svgs
 Comment: gitlab-svgs. Icons may include modifications. https://www.svgrepo.com/collection/gitlab-interface-icons/.
 
