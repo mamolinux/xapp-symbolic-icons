@@ -23,15 +23,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="64.1875"
-     inkscape:cx="5.6553067"
-     inkscape:cy="7.9922103"
+     inkscape:zoom="22.693708"
+     inkscape:cx="1.1016269"
+     inkscape:cy="4.4946378"
      inkscape:window-width="2560"
      inkscape:window-height="1348"
-     inkscape:window-x="2560"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg870" />
+     inkscape:current-layer="g8778-9" />
   <g
      id="SVGRepo_bgCarrier"
      stroke-width="0"
@@ -42,131 +42,127 @@
      stroke-linejoin="round"
      transform="translate(-10.866602,0.84907498)" />
   <g
-     id="SVGRepo_iconCarrier"
-     style="fill:#2e3436;fill-opacity:1">
-    <path
-       d="M 3,1 H 1 v 2 h 2 z"
-       fill="#000000"
-       id="path995"
-       style="fill:#2e3436;fill-opacity:1" />
-    <path
-       d="M 3,13 H 1 v 2 h 2 z"
-       fill="#000000"
-       id="path997"
-       style="fill:#2e3436;fill-opacity:1" />
-    <path
-       d="m 1,9 h 2 v 2 H 1 Z"
-       fill="#000000"
-       id="path999"
-       style="fill:#2e3436;fill-opacity:1" />
-    <path
-       d="M 3,5 H 1 v 2 h 2 z"
-       fill="#000000"
-       id="path1001"
-       style="fill:#2e3436;fill-opacity:1" />
-    <path
-       d="M 5,1 H 7 V 3 H 5 Z"
-       fill="#000000"
-       id="path1003"
-       style="fill:#2e3436;fill-opacity:1" />
-    <path
-       d="M 7,13 H 5 v 2 h 2 z"
-       fill="#000000"
-       id="path1005"
-       style="fill:#2e3436;fill-opacity:1" />
-    <path
-       d="m 9,1 h 2 V 3 H 9 Z"
-       fill="#000000"
-       id="path1007"
-       style="fill:#2e3436;fill-opacity:1" />
-    <path
-       d="M 11,13 H 9 v 2 h 2 z"
-       fill="#000000"
-       id="path1009"
-       style="fill:#2e3436;fill-opacity:1" />
-    <path
-       d="m 13,1 h 2 v 2 h -2 z"
-       fill="#000000"
-       id="path1011"
-       style="fill:#2e3436;fill-opacity:1" />
-    <path
-       d="m 15,13 h -2 v 2 h 2 z"
-       fill="#000000"
-       id="path1013"
-       style="fill:#2e3436;fill-opacity:1" />
-    <path
-       d="m 13,9 h 2 v 2 h -2 z"
-       fill="#000000"
-       id="path1015"
-       style="fill:#2e3436;fill-opacity:1" />
-    <path
-       d="m 15,5 h -2 v 2 h 2 z"
-       fill="#000000"
-       id="path1017"
-       style="fill:#2e3436;fill-opacity:1" />
-  </g>
+     id="SVGRepo_bgCarrier-8"
+     stroke-width="0"
+     transform="matrix(0.74815855,0,0,0.73651327,-16.615032,-3.8853913)" />
   <g
-     id="g1446"
-     style="fill:#2e3436;fill-opacity:1">
-    <path
-       d="M 3,1 H 1 v 2 h 2 z"
-       fill="#000000"
-       id="path1422"
-       style="fill:#2e3436;fill-opacity:1" />
-    <path
-       d="M 3,13 H 1 v 2 h 2 z"
-       fill="#000000"
-       id="path1424"
-       style="fill:#2e3436;fill-opacity:1" />
-    <path
-       d="m 1,9 h 2 v 2 H 1 Z"
-       fill="#000000"
-       id="path1426"
-       style="fill:#2e3436;fill-opacity:1" />
-    <path
-       d="M 3,5 H 1 v 2 h 2 z"
-       fill="#000000"
-       id="path1428"
-       style="fill:#2e3436;fill-opacity:1" />
-    <path
-       d="M 5,1 H 7 V 3 H 5 Z"
-       fill="#000000"
-       id="path1430"
-       style="fill:#2e3436;fill-opacity:1" />
-    <path
-       d="M 7,13 H 5 v 2 h 2 z"
-       fill="#000000"
-       id="path1432"
-       style="fill:#2e3436;fill-opacity:1" />
-    <path
-       d="m 9,1 h 2 V 3 H 9 Z"
-       fill="#000000"
-       id="path1434"
-       style="fill:#2e3436;fill-opacity:1" />
-    <path
-       d="M 11,13 H 9 v 2 h 2 z"
-       fill="#000000"
-       id="path1436"
-       style="fill:#2e3436;fill-opacity:1" />
-    <path
-       d="m 13,1 h 2 v 2 h -2 z"
-       fill="#000000"
-       id="path1438"
-       style="fill:#2e3436;fill-opacity:1" />
-    <path
-       d="m 15,13 h -2 v 2 h 2 z"
-       fill="#000000"
-       id="path1440"
-       style="fill:#2e3436;fill-opacity:1" />
-    <path
-       d="m 13,9 h 2 v 2 h -2 z"
-       fill="#000000"
-       id="path1442"
-       style="fill:#2e3436;fill-opacity:1" />
-    <path
-       d="m 15,5 h -2 v 2 h 2 z"
-       fill="#000000"
-       id="path1444"
-       style="fill:#2e3436;fill-opacity:1" />
+     id="SVGRepo_tracerCarrier-9"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     transform="matrix(0.74815855,0,0,0.73651327,-16.615032,-3.8853913)" />
+  <g
+     id="g8542"
+     transform="translate(0,16.372365)">
+    <g
+       id="g8613"
+       transform="matrix(0.97157651,0,0,0.98664329,0.22738824,-0.11182736)">
+      <g
+         id="g8186-4"
+         transform="translate(19.933134,-22.955128)">
+        <g
+           id="g8697">
+          <g
+             id="g8778"
+             transform="translate(0.99364446,0.80382173)">
+            <rect
+               style="font-variation-settings:'wght' 700;fill:#2e3436;fill-opacity:1;stroke-width:1.13108;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.9"
+               id="rect7977-74"
+               width="2.2026057"
+               height="2.1689703"
+               x="-20.167175"
+               y="6.474463" />
+            <rect
+               style="font-variation-settings:'wght' 700;fill:#2e3436;fill-opacity:1;stroke-width:1.13108;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.9"
+               id="rect7977-74-2"
+               width="2.2026057"
+               height="2.1689703"
+               x="-16.074446"
+               y="6.474463" />
+            <rect
+               style="font-variation-settings:'wght' 700;fill:#2e3436;fill-opacity:1;stroke-width:1.13108;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.9"
+               id="rect7977-74-7"
+               width="2.2026057"
+               height="2.1689703"
+               x="-11.981717"
+               y="6.474463" />
+            <rect
+               style="font-variation-settings:'wght' 700;fill:#2e3436;fill-opacity:1;stroke-width:1.13108;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.9"
+               id="rect7977-74-22"
+               width="2.2026057"
+               height="2.1689703"
+               x="-7.888988"
+               y="6.474463" />
+          </g>
+          <g
+             id="g8778-6"
+             transform="translate(0.99364446,4.8997112)">
+            <rect
+               style="font-variation-settings:'wght' 700;fill:#2e3436;fill-opacity:1;stroke-width:1.13108;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.9"
+               id="rect7977-74-1"
+               width="2.2026057"
+               height="2.1689703"
+               x="-20.167175"
+               y="6.474463" />
+            <rect
+               style="font-variation-settings:'wght' 700;fill:#2e3436;fill-opacity:1;stroke-width:1.13108;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.9"
+               id="rect7977-74-22-4"
+               width="2.2026057"
+               height="2.1689703"
+               x="-7.888988"
+               y="6.474463" />
+          </g>
+          <g
+             id="g8778-9"
+             transform="translate(0.99364446,8.9956006)">
+            <rect
+               style="font-variation-settings:'wght' 700;fill:#2e3436;fill-opacity:1;stroke-width:1.13108;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.9"
+               id="rect7977-74-0"
+               width="2.2026057"
+               height="2.1689703"
+               x="-20.167175"
+               y="6.474463" />
+            <rect
+               style="font-variation-settings:'wght' 700;fill:#2e3436;fill-opacity:1;stroke-width:1.13108;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.9"
+               id="rect7977-74-22-7"
+               width="2.2026057"
+               height="2.1689703"
+               x="-7.888988"
+               y="6.474463" />
+          </g>
+          <g
+             id="g8778-7"
+             transform="translate(0.99364446,13.09149)">
+            <rect
+               style="font-variation-settings:'wght' 700;fill:#2e3436;fill-opacity:1;stroke-width:1.13108;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.9"
+               id="rect7977-74-11"
+               width="2.2026057"
+               height="2.1689703"
+               x="-20.167175"
+               y="6.474463" />
+            <rect
+               style="font-variation-settings:'wght' 700;fill:#2e3436;fill-opacity:1;stroke-width:1.13108;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.9"
+               id="rect7977-74-2-59"
+               width="2.2026057"
+               height="2.1689703"
+               x="-16.074446"
+               y="6.474463" />
+            <rect
+               style="font-variation-settings:'wght' 700;fill:#2e3436;fill-opacity:1;stroke-width:1.13108;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.9"
+               id="rect7977-74-7-7"
+               width="2.2026057"
+               height="2.1689703"
+               x="-11.981717"
+               y="6.474463" />
+            <rect
+               style="font-variation-settings:'wght' 700;fill:#2e3436;fill-opacity:1;stroke-width:1.13108;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.9"
+               id="rect7977-74-22-76"
+               width="2.2026057"
+               height="2.1689703"
+               x="-7.888988"
+               y="6.474463" />
+          </g>
+        </g>
+      </g>
+    </g>
   </g>
 </svg>

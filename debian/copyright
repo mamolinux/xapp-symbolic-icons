@@ -63,6 +63,7 @@ Comment: gitlab-svgs. Icons may include modifications. https://www.svgrepo.com/c
 
 Files:
  icons/symbolic/xsi-applications-internet.svg
+ icons/symbolic/xsi-group-symbolic.svg
 Copyright:
  None
 License: CC0
@@ -82,7 +83,6 @@ Comment: Origin and licensing information not yet determined; under investigatio
 
 Files:
  icons/symbolic/xsi-applications-wine-symbolic.svg
- icons/symbolic/xsi-group-symbolic.svg
 Copyright:
  Unknown
 License: NOT OK
