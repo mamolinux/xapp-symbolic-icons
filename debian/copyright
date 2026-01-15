@@ -41,14 +41,22 @@ Comment: Siemens Industrial Experience Icons. Icons may include modifications. h
 
 
 Files:
+ icons/symbolic/xsi-applications-other-symbolic.svg
+ icons/symbolic/xsi-git-pr-symbolic.svg
+ icons/symbolic/xsi-git-symbolic.svg
+ icons/symbolic/xsi-github-symbolic.svg
+Copyright:
+ © GitLab Inc.
+License: GitLab
+Source: https://gitlab.com/gitlab-org/gitlab-services/design.gitlab.com/-/tree/main/packages/gitlab-svgs
+Comment: gitlab-svgs. Icons may include modifications. https://www.svgrepo.com/collection/gitlab-interface-icons/.
+
+
+Files:
  icons/symbolic/xsi-cpu-symbolic.svg
  icons/symbolic/xsi-ram-symbolic.svg
  icons/symbolic/xsi-temperature-symbolic.svg
  icons/symbolic/xsi-applications-education-symbolic.svg
- icons/symbolic/xsi-applications-other-symbolic.svg
- icons/symbolic/xsi-git-pr-symbolic.svg
- icons/symbolic/xsi-git-symbolic.svg
-
 Copyright:
  Unknown
 License: UNKNOWN
@@ -57,7 +65,6 @@ Comment: Origin and licensing information not yet determined; under investigatio
 
 Files:
  icons/symbolic/xsi-applications-wine-symbolic.svg
- icons/symbolic/xsi-github-symbolic.svg
  icons/symbolic/xsi-applications-internet-symbolic.svg
  icons/symbolic/xsi-boot-menu-symbolic.svg
  icons/symbolic/xsi-group-symbolic.svg
