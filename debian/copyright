@@ -111,7 +111,7 @@ Comment: Origin and licensing information not yet determined; under investigatio
 Files: icons/symbolic/*
 Copyright:
  © GNOME Project
-License: LGPL-3+
+License: LGPL-3
 Comment: Derived from the Adwaita Icon Theme; icons may include modifications.
 
 
@@ -121,14 +121,13 @@ Files:
  icons/*.in
 Copyright:
  © xapp-symbolic-icons
-License: LGPL-3+
+License: LGPL-3
 
 
-License: LGPL-3+
+License: LGPL-3
  This package is free software; you can redistribute it and/or modify
  it under the terms of the GNU Lesser General Public License as published
- by the Free Software Foundation; either version 3 of the License, or
- (at your option) any later version.
+ by the Free Software Foundation; version 3 of the License.
  .
  On Debian systems, the complete text of the GNU Lesser General Public
  License version 3 can be found in
