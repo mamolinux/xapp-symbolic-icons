@@ -14,35 +14,61 @@ Comment: Icons may include modifications.
 
 
 Files:
+ icons/symbolic/xsi-preferences-symbolic.svg
+Copyright:
+ © Will Kelly
+License: MIT
+Source: https://ikono.will-kelly.co.uk
+Comment: Ikono Bold Line Icons. Icons may include modifications. https://www.svgrepo.com/author/Will%20Kelly/.
+
+
+Files:
  icons/symbolic/xsi-applications-development-symbolic.svg
- icons/symbolic/xsi-applications-internet-symbolic.svg
+Copyright:
+ © Denali Design
+License: MIT
+Source: https://github.com/denali-design/denali-icons
+Comment: Denali Icons. Icons may include modifications. https://www.svgrepo.com/author/Denali%20Design/.
+
+
+Files:
  icons/symbolic/xsi-applications-office-symbolic.svg
+Copyright:
+ © Siemens AG
+License: MIT
+Source: https://github.com/siemens/ix-icons
+Comment: Siemens Industrial Experience Icons. Icons may include modifications. https://www.svgrepo.com/author/Siemens/.
+
+
+Files:
+ icons/symbolic/xsi-cpu-symbolic.svg
+ icons/symbolic/xsi-ram-symbolic.svg
+ icons/symbolic/xsi-temperature-symbolic.svg
+ icons/symbolic/xsi-applications-education-symbolic.svg
  icons/symbolic/xsi-applications-other-symbolic.svg
- icons/symbolic/xsi-boot-menu-symbolic.svg
  icons/symbolic/xsi-git-pr-symbolic.svg
  icons/symbolic/xsi-git-symbolic.svg
+
+Copyright:
+ Unknown
+License: UNKNOWN
+Comment: Origin and licensing information not yet determined; under investigation.
+
+
+Files:
+ icons/symbolic/xsi-applications-wine-symbolic.svg
  icons/symbolic/xsi-github-symbolic.svg
+ icons/symbolic/xsi-applications-internet-symbolic.svg
+ icons/symbolic/xsi-boot-menu-symbolic.svg
  icons/symbolic/xsi-group-symbolic.svg
 Copyright:
  Unknown
-License: UNKNOWN
-Comment: Origin and licensing information not yet determined; under investigation. Added from SVGrepo.
+License: NOT OK
+Comment: Origin and licensing information not OK. Need to be redone.
 
 
 Files:
- icons/symbolic/xsi-pci-card-symbolic.svg
- icons/symbolic/xsi-applications-games-symbolic.svg
- icons/symbolic/xsi-applications-education-symbolic.svg
- icons/symbolic/xsi-user-favorites-symbolic.svg
  icons/symbolic/xsi-folder-recent-symbolic.svg
- icons/symbolic/xsi-applications-wine-symbolic.svg
-Copyright:
- Unknown
-License: UNKNOWN
-Comment: Origin and licensing information not yet determined; under investigation. Added later. Wine looks free but with no license info.
-
-
-Files:
  icons/symbolic/xsi-folder-warning-symbolic.svg
  icons/symbolic/xsi-power-profile-balanced-symbolic.svg
  icons/symbolic/xsi-power-profile-performance-symbolic.svg
@@ -52,6 +78,7 @@ Files:
  icons/symbolic/xsi-network-wireless-signal-none-secure-symbolic.svg
  icons/symbolic/xsi-network-wireless-signal-good-secure-symbolic.svg
  icons/symbolic/xsi-network-wireless-signal-excellent-secure-symbolic.svg
+ icons/symbolic/xsi-user-favorites-symbolic.svg
 Copyright:
  Unknown
 License: UNKNOWN
