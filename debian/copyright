@@ -41,6 +41,15 @@ Comment: Eva Icons. Icons may include modifications. https://staging.svgrepo.com
 
 
 Files:
+ icons/symbolic/xsi-applications-wine-symbolic.svg
+Copyright:
+ © phosphor-icons
+License: MIT
+Source: https://github.com/phosphor-icons/web
+Comment: Phosphor Icons. Icons may include modifications. https://staging.svgrepo.com/author/phosphor/.
+
+
+Files:
  icons/symbolic/xsi-applications-office-symbolic.svg
 Copyright:
  © Siemens AG
@@ -79,14 +88,6 @@ Copyright:
  Unknown
 License: UNKNOWN
 Comment: Origin and licensing information not yet determined; under investigation.
-
-
-Files:
- icons/symbolic/xsi-applications-wine-symbolic.svg
-Copyright:
- Unknown
-License: NOT OK
-Comment: Origin and licensing information not OK. Need to be redone.
 
 
 Files:

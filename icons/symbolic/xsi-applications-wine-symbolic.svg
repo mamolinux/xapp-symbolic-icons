@@ -5,7 +5,7 @@
    width="16px"
    version="1.1"
    id="svg9322"
-   sodipodi:docname="xsi-applications-windows-symbolic.svg"
+   sodipodi:docname="xsi-applications-wine-symbolic.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="64.1875"
-     inkscape:cx="2.7030185"
-     inkscape:cy="7.9922103"
+     inkscape:zoom="5.6734271"
+     inkscape:cx="-14.277085"
+     inkscape:cy="-24.852703"
      inkscape:window-width="2560"
      inkscape:window-height="1348"
      inkscape:window-x="2560"
@@ -55,37 +55,32 @@
      transform="matrix(0.69999937,0,0,0.699965,-4.8899798,-2.2568595)"
      style="fill:#2e3436;fill-opacity:1" />
   <g
+     id="SVGRepo_bgCarrier-39"
+     stroke-width="0"
+     transform="matrix(0.05357143,0,0,0.05357143,-102.89464,-133.98637)" />
+  <g
+     id="SVGRepo_tracerCarrier-4"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     transform="matrix(0.05357143,0,0,0.05357143,-102.89464,-133.98637)" />
+  <g
+     id="SVGRepo_bgCarrier-1"
+     stroke-width="0"
+     transform="matrix(0.07142857,0,0,0.07142857,-130.84894,-103.80106)"
+     style="fill:#2e3436;fill-opacity:1" />
+  <g
+     id="SVGRepo_tracerCarrier-2"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     transform="matrix(0.07142857,0,0,0.07142857,-130.84894,-103.80106)"
+     style="fill:#2e3436;fill-opacity:1" />
+  <g
      id="SVGRepo_iconCarrier"
-     transform="matrix(0.69999937,0,0,0.699965,1,1.0007)"
+     transform="matrix(-0.05134122,-0.0375387,-0.0375387,0.05134122,19.171262,6.383435)"
      style="fill:#2e3436;fill-opacity:1">
-    <title
-       id="title292">windows [#174]</title>
-    <desc
-       id="desc294">Created with Sketch.</desc>
-    <defs
-       id="defs296" />
-    <g
-       id="Page-1"
-       stroke="none"
-       stroke-width="1"
-       fill="none"
-       fill-rule="evenodd"
-       style="fill:#2e3436;fill-opacity:1">
-      <g
-         id="Dribbble-Light-Preview"
-         transform="translate(-60,-7439)"
-         fill="#000000"
-         style="fill:#2e3436;fill-opacity:1">
-        <g
-           id="icons"
-           transform="translate(56,160)"
-           style="fill:#2e3436;fill-opacity:1">
-          <path
-             d="m 13.145865,7289.4343 c 0.005,1.9989 0.01103,5.395 0.01604,8.0345 3.614035,0.4888 7.22807,0.9925 10.83609,1.5312 0,-3.1513 0.004,-6.2885 0,-9.2869 -3.617043,0 -7.233083,-0.2788 -10.85213,-0.2788 m -9.145865,0 v 6.7862 c 2.7258145,0.3678 5.4516291,0.7196 8.172431,1.1214 0.005,-2.6255 -0.002,-5.2521 -0.002,-7.8777 -2.7238095,0.01 -5.4466165,-0.039 -8.170426,-0.03 m 0,-7.5919 v 6.7673 c 2.7258145,0.01 5.4516291,-0.034 8.177444,-0.031 -0.002,-2.6195 -0.002,-5.2361 -0.005,-7.8557 -2.7278195,0.3409 -5.455639,0.7017 -8.172431,1.1194 m 20,6.6284 c -3.61203,0.014 -7.22406,0.069 -10.838095,0.08 -0.002,-2.6625 -0.002,-5.322 0,-7.9826 3.607017,-0.5507 7.222055,-1.0684 10.83609,-1.5691 0.002,3.1583 0,6.3135 0.002,9.4718"
-             id="windows-[#174]"
-             style="fill:#2e3436;fill-opacity:1" />
-        </g>
-      </g>
-    </g>
+    <path
+       d="M 209.73047,110.01318 183.67285,21.73535 A 7.99985,7.99985 0 0 0 176,16 H 80 a 7.99985,7.99985 0 0 0 -7.67285,5.73535 L 46.26953,110.01367 A 31.984,31.984 0 0 0 47.791,132.24951 88.23263,88.23263 0 0 0 120,183.62012 V 224 H 88 a 8,8 0 0 0 0,16 h 80 a 8,8 0 0 0 0,-16 h -32 v -40.37988 a 88.2322,88.2322 0 0 0 72.209,-51.3711 31.98167,31.98167 0 0 0 1.52147,-22.23584 z M 131.57764,96.84473 C 105.398,83.75488 84.38428,83.76318 69.66943,87.25586 L 85.97949,32 h 84.041 l 20.8125,70.5083 c -10.77635,4.4927 -31.07713,8.42529 -59.25535,-5.66357 z"
+       id="path9562"
+       style="fill:#2e3436;fill-opacity:1" />
   </g>
 </svg>
