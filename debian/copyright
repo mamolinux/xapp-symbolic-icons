@@ -32,6 +32,15 @@ Comment: Denali Icons. Icons may include modifications. https://www.svgrepo.com/
 
 
 Files:
+ icons/symbolic/xsi-boot-menu-symbolic.svg
+Copyright:
+ © Akveo team
+License: MIT
+Source: https://github.com/akveo/eva-icons
+Comment: Eva Icons. Icons may include modifications. https://staging.svgrepo.com/author/Eva%20Icons/.
+
+
+Files:
  icons/symbolic/xsi-applications-office-symbolic.svg
 Copyright:
  © Siemens AG
@@ -73,7 +82,6 @@ Comment: Origin and licensing information not yet determined; under investigatio
 
 Files:
  icons/symbolic/xsi-applications-wine-symbolic.svg
- icons/symbolic/xsi-boot-menu-symbolic.svg
  icons/symbolic/xsi-group-symbolic.svg
 Copyright:
  Unknown
