@@ -76,18 +76,11 @@ Files:
  icons/symbolic/xsi-group-symbolic.svg
  icons/symbolic/xsi-cpu-symbolic.svg
  icons/symbolic/xsi-ram-symbolic.svg
+ icons/symbolic/xsi-temperature-symbolic.svg
 Copyright:
  None
 License: CC0
 Comment: Public domain license. No copyright.
-
-
-Files:
- icons/symbolic/xsi-temperature-symbolic.svg
-Copyright:
- Unknown
-License: UNKNOWN
-Comment: Origin and licensing information not yet determined; under investigation.
 
 
 Files:
