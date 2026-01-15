@@ -77,6 +77,7 @@ Files:
  icons/symbolic/xsi-cpu-symbolic.svg
  icons/symbolic/xsi-ram-symbolic.svg
  icons/symbolic/xsi-temperature-symbolic.svg
+ icons/symbolic/xsi-user-favorites-symbolic.svg
 Copyright:
  None
 License: CC0
@@ -84,21 +85,14 @@ Comment: Public domain license. No copyright.
 
 
 Files:
- icons/symbolic/xsi-folder-recent-symbolic.svg
- icons/symbolic/xsi-folder-warning-symbolic.svg
  icons/symbolic/xsi-power-profile-balanced-symbolic.svg
  icons/symbolic/xsi-power-profile-performance-symbolic.svg
  icons/symbolic/xsi-power-profile-power-symbolic.svg
- icons/symbolic/xsi-network-wireless-signal-weak-secure-symbolic.svg
- icons/symbolic/xsi-network-wireless-signal-ok-secure-symbolic.svg
- icons/symbolic/xsi-network-wireless-signal-none-secure-symbolic.svg
- icons/symbolic/xsi-network-wireless-signal-good-secure-symbolic.svg
- icons/symbolic/xsi-network-wireless-signal-excellent-secure-symbolic.svg
- icons/symbolic/xsi-user-favorites-symbolic.svg
 Copyright:
- Unknown
-License: UNKNOWN
-Comment: Origin and licensing information not yet determined; under investigation. Added from Nemo/Cinnamon.
+ © Yaru Contributors
+License: CC-BY-SA-4.0
+Source: https://github.com/ubuntu/yaru
+Comment: Derived from the Yaru icon theme; icons may include modifications.
 
 
 Files: icons/symbolic/*
@@ -150,5 +144,15 @@ License: MIT
 License: CC0
  Creative Commons CC0 1.0 Universal
  .
- On Debian systems, the complete text of the CC0 license can be found at:
+ For the full license text, see:
  https://creativecommons.org/publicdomain/zero/1.0/
+
+
+License: CC-BY-SA-4.0
+ Creative Commons Attribution-ShareAlike 4.0 International
+ .
+ This work is licensed under the Creative Commons Attribution-ShareAlike
+ 4.0 International License.
+ .
+ For the full license text, see:
+ https://creativecommons.org/licenses/by-sa/4.0/
