@@ -1,3 +1,23 @@
+xapp-symbolic-icons (1.0.9) zena; urgency=medium
+
+  * Add xsi-applications-electronics
+  * Add licensing info (#21)
+  * Update licensing info
+  * Redesign git related icons and attribute license to GitLab
+  * Update licensing info for Internet
+  * Redesign boot-menu
+  * Redesign group
+  * Redesign applications-wine
+  * Licensing: Remove confusion between LGPL-3 and LGPL-3+
+  * Licensing: Clarify GitLab license
+  * Licensing: Add missing CC0 license to debian/copyright
+  * Redesign applications-education
+  * Redesign cpu/ram
+  * Redesign temperature
+  * Licensing: Update info
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 16 Jan 2026 10:37:06 +0000
+
 xapp-symbolic-icons (1.0.8) zena; urgency=medium
 
   [ JosephMcc ]
